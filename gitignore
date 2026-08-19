@@ -1,3 +1,20 @@
+# Python
 __pycache__/
-.venv/
 *.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
