@@ -1,2 +1,2 @@
-# scoring_OPCVM_Version_2
-Analyse OPCVM monétaires pour investissement
+# OPCVM Scoring Dashboard
+Application Streamlit avec scoring, radar, heatmap, allocation min 5% max 20%, simulation investissement et export Excel.
